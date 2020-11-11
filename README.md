@@ -1,2 +1,7 @@
 # snake_ai
-automated snake game with A* pathfinding algorithm that aims for the highest score
+
+• Created an automatic program that attempts to achieve the highest score
+in Snake
+• Implemented A* Pathfinding algorithm to find the optimum path of the
+snake
+• Discussed objectives and metrics in a report
