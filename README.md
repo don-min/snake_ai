@@ -7,4 +7,4 @@ in Snake
 snake
 
 # DEMO
-![](snakeai.gif)
+![](snakeai.gif align="center")
