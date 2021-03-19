@@ -6,7 +6,7 @@ in Snake
 • Implemented A* Pathfinding algorithm to find the optimum path of the
 snake
 
-# DEMO
+## DEMO ##
 <p align="center">
 <img width="425" height="425" src="snakeai.gif">
 </p>
