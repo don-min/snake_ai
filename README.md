@@ -7,4 +7,6 @@ in Snake
 snake
 
 # DEMO
-![Alt text](snakeai.gif align="center")
+<p align="center">
+<img width="425" height="425" src="snakeai.gif">
+</p>
